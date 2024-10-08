@@ -7,10 +7,10 @@ that acts as a **Reference Client** (for browser and Node.js) and
 [`/src/lib/wavtools`](./src/lib/wavtools) which allows for simple audio
 management in the browser.
 
+https://github.com/user-attachments/assets/2fbd3aba-9b1d-4618-a275-b763c2d47a53
+
 https://www.loom.com/share/6635cb9654da4baeb36a1ef67e5fe085?sid=3998f3c4-4b35-4c45-ae01-016acc13e422
 
-[https://www.loom.com/share/94c11c422aa74bf9a73ea0a75638cb1f?t=71&sid=3e39d1d1-7c72-427d-bcbd-f5e1041d86e0
-](https://www.loom.com/share/94c11c422aa74bf9a73ea0a75638cb1f)
 # Set your own API Key
 1. Set your API key (saved to local storage)
 2. Click "Connect" and start talking
