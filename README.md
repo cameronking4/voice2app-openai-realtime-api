@@ -1,4 +1,4 @@
-# Sketch2App but with voice instead
+# Generate Next.js pages using Voice (OpenAI Realtime API)
 
 Fork of the OpenAI Realtime Console with modifications to edit a live codesandbox voice-interactive using API reference
 for the OpenAI Realtime API. It comes packaged with two utility libraries,
@@ -7,7 +7,8 @@ that acts as a **Reference Client** (for browser and Node.js) and
 [`/src/lib/wavtools`](./src/lib/wavtools) which allows for simple audio
 management in the browser.
 
-![image](https://github.com/user-attachments/assets/810bb60c-f993-4f8d-8790-1b51e83cfb93)
+https://github.com/user-attachments/assets/289e4b8a-f258-40e2-a2fa-cfe1bfd8f6f2
+
 
 # Set your own API Key
 1. Set your API key (saved to local storage)
